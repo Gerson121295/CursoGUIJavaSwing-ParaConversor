@@ -52,7 +52,7 @@ public class Formulario28 extends JFrame implements ActionListener { //implement
 
     //Diseño de nuestra interfaz grafica
     public static void main(String args[]){
-        Formulario28 formulario28 = new Formulario28(); //Creacion del objeto para la interfaz debe ser igual o del tipo a la clase.
+        Formulario28 formulario28 = new Formulario28(); //Creacion del objeto para la interfaz, debe ser igual o del tipo a la clase.
         formulario28.setBounds(0,0,350,200);//ubicacion y tamaño de la interfaz
         formulario28.setVisible(true);//Permite ver la interfaz
         formulario28.setResizable(false);//Evita que el usuario pueda modificar el tamaño
