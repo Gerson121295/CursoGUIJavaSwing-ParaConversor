@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db915d78-6e8a-488f-9f5e-3219786551c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javaGUI/Formulario26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaGUI/Formulario27.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaGUI/Formulario25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaGUI/Formulario25.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Formulario26">
+  <component name="RunManager" selected="Application.Formulario27">
     <configuration name="Formulario25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaGUI.Formulario25" />
       <module name="Conversor" />
@@ -61,6 +60,19 @@
     </configuration>
     <configuration name="Formulario26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaGUI.Formulario26" />
+      <module name="Conversor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaGUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Formulario27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaGUI.Formulario27" />
       <module name="Conversor" />
       <extension name="coverage">
         <pattern>
@@ -98,20 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejemplosGUI.SumGUI" />
-      <module name="Conversor" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Formulario27" />
         <item itemvalue="Application.Formulario26" />
         <item itemvalue="Application.Formulario25" />
         <item itemvalue="Application.GUIJoptionPane" />
         <item itemvalue="Application.GUI" />
-        <item itemvalue="Application.SumGUI" />
       </list>
     </recent_temporary>
   </component>
