@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db915d78-6e8a-488f-9f5e-3219786551c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conversor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conversor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConversorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConversorGrafico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejemplosGUI/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejemplosGUI/GUIJoptionPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejemplosGUI/SumGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaGUI/Formulario25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,18 +39,64 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="ConversorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConversorApp" />
+}</component>
+  <component name="RunManager" selected="Application.Formulario25">
+    <configuration name="ConversorGrafico (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConversorGrafico" />
+      <module name="Conversor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Formulario25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaGUI.Formulario25" />
+      <module name="Conversor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaGUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejemplosGUI.GUI" />
+      <module name="Conversor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejemplosGUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GUIJoptionPane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejemplosGUI.GUIJoptionPane" />
+      <module name="Conversor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejemplosGUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejemplosGUI.SumGUI" />
       <module name="Conversor" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,7 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConversorApp" />
+        <item itemvalue="Application.Formulario25" />
+        <item itemvalue="Application.GUIJoptionPane" />
+        <item itemvalue="Application.GUI" />
+        <item itemvalue="Application.SumGUI" />
+        <item itemvalue="Application.ConversorGrafico (1)" />
       </list>
     </recent_temporary>
   </component>
