@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db915d78-6e8a-488f-9f5e-3219786551c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javaGUI/Formulario35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaGUI/Formulario36.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,20 +44,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Formulario35">
-    <configuration name="Formulario31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaGUI.Formulario31" />
-      <module name="Conversor" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaGUI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Formulario36">
     <configuration name="Formulario32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaGUI.Formulario32" />
       <module name="Conversor" />
@@ -110,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Formulario36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaGUI.Formulario36" />
+      <module name="Conversor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaGUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Formulario36" />
         <item itemvalue="Application.Formulario35" />
         <item itemvalue="Application.Formulario34" />
         <item itemvalue="Application.Formulario33" />
         <item itemvalue="Application.Formulario32" />
-        <item itemvalue="Application.Formulario31" />
       </list>
     </recent_temporary>
   </component>
