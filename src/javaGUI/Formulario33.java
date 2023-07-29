@@ -51,7 +51,7 @@ public class Formulario33 extends JFrame implements ActionListener{
             //parseo: Guardar momentaneamente en una variable(para que no se pierda el dato) luego pegarla en otra.
             //Valor 1
             /*valor 1 es entero y textField1 es de tipo texto, por lo que debo de indicarle al programa
-            lo que recupere antes de asignarlo a la variable valor 1 debe de comvertirlo en un valor entero.
+            lo que recupere antes de asignarlo a la variable valor 1 debe de convertirlo en un valor entero.
             //getText para recuperar el texto de textField1 para luego guardarlo en valor1
 
             parceo de un dato tipo String a un dato de tipo entero:
